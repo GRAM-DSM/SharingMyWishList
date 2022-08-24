@@ -13,8 +13,23 @@
 ## Developement Period
 - *2022/08~*
 
+## Developement Information
+### Server
+- ...
+
+### iOS
+- ...
+
+### Android
+- Tools
+  - Android Studio
+- Language
+  - Java
+- Development Technique
+  - Retrofit
+  - DataBinding
+
 ## Developers
 - Server : 길근우
 - iOS : 박주영, 조병진
 - Android : 박준수
-- Design : 박준수
