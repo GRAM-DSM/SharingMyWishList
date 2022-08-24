@@ -10,7 +10,7 @@
 - Android
   - [진행 현황](https://github.com/GRAM-DSM/SharingMyWishlist-Android)
 
-## Developing Period
+## Developement Period
 - *2022/08~*
 
 ## Developers
