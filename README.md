@@ -13,12 +13,25 @@
 ## Developement Period
 - *2022/08~*
 
+## Developers
+- Server : 길근우
+- iOS : 박주영, 조병진
+- Android : 박준수
+
 ## Developement Information
 ### Server
 - ...
 
 ### iOS
-- ...
+- Tools
+  - Xcode
+  - Postman
+- Language
+  - swift
+- Developement Teqhnique
+  - Moya
+  - Snapkit
+  - Then
 
 ### Android
 - Tools
@@ -28,8 +41,3 @@
 - Development Technique
   - Retrofit
   - DataBinding
-
-## Developers
-- Server : 길근우
-- iOS : 박주영, 조병진
-- Android : 박준수
