@@ -20,7 +20,13 @@
 
 ## Developement Information
 ### Server
-- ...
+- Tools
+  - intelliJ
+  - Postman
+  - MySQL Workbench
+- Language
+  - Java
+- Developement Technique
 
 ### iOS
 - Tools
