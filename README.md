@@ -20,6 +20,7 @@
 
 ## Developement Information
 ### Server
+#### 길근우
 - Tools
   - intelliJ
   - Postman
@@ -29,6 +30,7 @@
 - Developement Technique
 
 ### iOS
+#### 박주영, 조병진
 - Tools
   - Xcode
   - Postman
@@ -40,6 +42,7 @@
   - Then
 
 ### Android
+#### 박준수
 - Tools
   - Android Studio
 - Language
