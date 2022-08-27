@@ -5,6 +5,8 @@
 가입한 회원들에 한정하여 서로의 위시리스트를 작성, 공유, 달성 및 수정을 할 수 있습니다.
 
 ## Platform
+- Server
+  - [진행 현황](https://github.com/gilgeunwoo/Gram2022-1grade-project)
 - iOS
   - [진행 현황](https://github.com/GRAM-DSM/SharingMyWishlist-iOS)
 - Android
