@@ -55,3 +55,8 @@
 - Development Technique
   - Retrofit
   - DataBinding
+
+### Design
+#### 박준수
+- Tools
+  - Figma
